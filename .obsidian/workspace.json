@@ -18,21 +18,97 @@
             }
           },
           {
-            "id": "f598e0d5cc43bfba",
+            "id": "57325ada2895bf47",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Python/PYTHON.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "PYTHON"
+            }
+          },
+          {
+            "id": "48205f3e88f1517d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Python/Python - Functions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Python - Functions"
+            }
+          },
+          {
+            "id": "7b197f8ca979356a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Python - Classes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Python - Classes"
+            }
+          },
+          {
+            "id": "39ac617acc27e49a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Python/PYTHON.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "PYTHON"
+            }
+          },
+          {
+            "id": "e30f0d7aed4c7719",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/DECEMBER.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DECEMBER"
+            }
+          },
+          {
+            "id": "68b43bcba738b208",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Python/PYTHON.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "PYTHON"
+            }
+          },
+          {
+            "id": "164e1648508cb5e3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Languages/Chinese/Drawing 2025-11-30 22.14.55.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-11-30 22.14.55.excalidraw"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -194,6 +270,36 @@
   },
   "active": "0245470f077ae063",
   "lastOpenFiles": [
+    "Python/PYTHON.md",
+    "Languages/Chinese/Drawing 2025-11-30 22.14.55.excalidraw.md",
+    "Languages/Chinese/Chinese - Vocabulary.md",
+    "Python/Python - Classes.md",
+    "Python/Python - Types.md",
+    "Python/Python - Functions.md",
+    "Python/Python - Constants.md",
+    "Anatomy/Anatomy.md",
+    "Journal/DECEMBER.md",
+    "Journal/2025",
+    "Journal",
+    "Music",
+    "Certifications/AZ-900",
+    "Certifications",
+    "Languages/Chinese",
+    "Languages",
+    "Math",
+    "Images/Anatomy/Pasted image 20251130211229.png",
+    "Images/Anatomy",
+    "Images",
+    "Images/Anatomy/Pasted image 20251130213959.png",
+    "Images/Anatomy/Pasted image 20251130213942.png",
+    "Images/Anatomy/Pasted image 20251130213901.png",
+    "Images/Anatomy/Pasted image 20251130213839.png",
+    "Images/Anatomy/Pasted image 20251130213831.png",
+    "Images/Anatomy/Pasted image 20251130213823.png",
+    "Images/Anatomy/Pasted image 20251130213814.png",
+    "Images/Anatomy/Pasted image 20251130213805.png",
+    "Images/Anatomy/Pasted image 20251130213751.png",
+    "pY.md",
     "README.md",
     "Welcome.md"
   ]
