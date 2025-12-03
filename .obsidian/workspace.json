@@ -4,111 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "71333c405a903b08",
+        "id": "7f1fca0600bfc6a9",
         "type": "tabs",
         "children": [
           {
-            "id": "16e30575f37a8c8b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "57325ada2895bf47",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Python/PYTHON.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "PYTHON"
-            }
-          },
-          {
-            "id": "48205f3e88f1517d",
+            "id": "93fccdcf3141895d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Python - Functions.md",
+                "file": "AI/Claude Code.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Python - Functions"
+              "title": "Claude Code"
             }
           },
           {
-            "id": "7b197f8ca979356a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/Python - Classes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Python - Classes"
-            }
-          },
-          {
-            "id": "39ac617acc27e49a",
+            "id": "48628a0a79affa46",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Python/PYTHON.md"
+                "file": "AI/MAP AI.md"
               },
               "icon": "excalidraw-icon",
-              "title": "PYTHON"
-            }
-          },
-          {
-            "id": "e30f0d7aed4c7719",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/DECEMBER.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DECEMBER"
-            }
-          },
-          {
-            "id": "68b43bcba738b208",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Python/PYTHON.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "PYTHON"
-            }
-          },
-          {
-            "id": "164e1648508cb5e3",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Languages/Chinese/Drawing 2025-11-30 22.14.55.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-11-30 22.14.55.excalidraw"
+              "title": "MAP AI"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -268,10 +194,24 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0245470f077ae063",
+  "active": "48628a0a79affa46",
   "lastOpenFiles": [
-    "Python/PYTHON.md",
+    "AI/MAP AI.md.tmp.2780.1764686129989",
+    "AI/MAP AI.md.tmp.2780.1764686020685",
+    "AI/Claude Code.md",
+    "AI/MAP AI.md",
+    "Excalidraw",
+    "Technology/Terminal/Terminal.md",
+    "Technology/Terminal/Git Bash.md",
+    "Technology/Shell/Shell.md",
+    "CLAUDE.md",
+    "CLAUDE.md.tmp.1465.1764683842284",
+    "AI/Semantic Kernel.md",
+    "Technology/Linux/MAP Linux.md",
+    "Technology/Linux",
+    "Technology/Shell",
     "Languages/Chinese/Drawing 2025-11-30 22.14.55.excalidraw.md",
+    "Python/PYTHON.md",
     "Languages/Chinese/Chinese - Vocabulary.md",
     "Python/Python - Classes.md",
     "Python/Python - Types.md",
@@ -284,12 +224,7 @@
     "Music",
     "Certifications/AZ-900",
     "Certifications",
-    "Languages/Chinese",
-    "Languages",
-    "Math",
     "Images/Anatomy/Pasted image 20251130211229.png",
-    "Images/Anatomy",
-    "Images",
     "Images/Anatomy/Pasted image 20251130213959.png",
     "Images/Anatomy/Pasted image 20251130213942.png",
     "Images/Anatomy/Pasted image 20251130213901.png",
