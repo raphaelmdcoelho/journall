@@ -4,37 +4,91 @@
     "type": "split",
     "children": [
       {
-        "id": "7f1fca0600bfc6a9",
+        "id": "71333c405a903b08",
         "type": "tabs",
         "children": [
           {
-            "id": "93fccdcf3141895d",
+            "id": "16e30575f37a8c8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Claude Code.md",
+                "file": "AI/Antigravity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Claude Code"
+              "title": "Antigravity"
             }
           },
           {
-            "id": "48628a0a79affa46",
+            "id": "20f800ed3d2a05be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/Crew AI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Crew AI"
+            }
+          },
+          {
+            "id": "1ee11b962a4259d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/Agent.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Agent"
+            }
+          },
+          {
+            "id": "ea878bef959e5b51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/Tree of Thoughts Prompting.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tree of Thoughts Prompting"
+            }
+          },
+          {
+            "id": "4ab7f2ff8bd54338",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "AI/MAP AI.md"
+                "file": "Excalidraw/Drawing 2025-12-10 15.26.45.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "MAP AI"
+              "title": "Drawing 2025-12-10 15.26.45.excalidraw"
+            }
+          },
+          {
+            "id": "1f5e3a7d4a2db9f8",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-12-10 15.26.49.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-12-10 15.26.49.excalidraw"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -194,36 +248,44 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "48628a0a79affa46",
+  "active": "1f5e3a7d4a2db9f8",
   "lastOpenFiles": [
-    "AI/MAP AI.md.tmp.2780.1764686129989",
-    "AI/MAP AI.md.tmp.2780.1764686020685",
+    "Excalidraw/Drawing 2025-12-10 15.26.45.excalidraw.md",
+    "Excalidraw/Drawing 2025-12-10 15.26.49.excalidraw.md",
+    "AI/Tree of Thoughts Prompting.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "AI/Agent.md",
+    "AI/Crew AI.md",
+    "AI/LangChain.md",
+    "AI/Antigravity.md",
     "AI/Claude Code.md",
     "AI/MAP AI.md",
-    "Excalidraw",
+    "CLAUDE.md",
+    "AI/Semantic Kernel.md",
+    "Technology/Shell/Shell.md",
     "Technology/Terminal/Terminal.md",
     "Technology/Terminal/Git Bash.md",
-    "Technology/Shell/Shell.md",
-    "CLAUDE.md",
-    "CLAUDE.md.tmp.1465.1764683842284",
-    "AI/Semantic Kernel.md",
+    "Technology/Python/PYTHON.md",
+    "Technology/Python/Python - Types.md",
+    "Technology/Python/Python - Constants.md",
+    "Technology/Python/Python - Functions.md",
+    "Technology/Python/Python - Classes.md",
     "Technology/Linux/MAP Linux.md",
-    "Technology/Linux",
+    "Technology/Terminal",
     "Technology/Shell",
+    "Technology/Python",
+    "Technology/Linux",
+    "Technology",
+    "AI",
+    "Claude Code.md",
     "Languages/Chinese/Drawing 2025-11-30 22.14.55.excalidraw.md",
     "Python/PYTHON.md",
-    "Languages/Chinese/Chinese - Vocabulary.md",
-    "Python/Python - Classes.md",
-    "Python/Python - Types.md",
-    "Python/Python - Functions.md",
-    "Python/Python - Constants.md",
-    "Anatomy/Anatomy.md",
     "Journal/DECEMBER.md",
     "Journal/2025",
     "Journal",
     "Music",
     "Certifications/AZ-900",
-    "Certifications",
     "Images/Anatomy/Pasted image 20251130211229.png",
     "Images/Anatomy/Pasted image 20251130213959.png",
     "Images/Anatomy/Pasted image 20251130213942.png",
@@ -233,9 +295,6 @@
     "Images/Anatomy/Pasted image 20251130213823.png",
     "Images/Anatomy/Pasted image 20251130213814.png",
     "Images/Anatomy/Pasted image 20251130213805.png",
-    "Images/Anatomy/Pasted image 20251130213751.png",
-    "pY.md",
-    "README.md",
-    "Welcome.md"
+    "Images/Anatomy/Pasted image 20251130213751.png"
   ]
 }
