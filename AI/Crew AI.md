@@ -105,7 +105,12 @@ print(result)
 
 ## Creating a project
 
-```
+```bash
+uv tool install crewai
+
+crewai create new <your_project_name>
+crewai install
+crewai run
 ```
 ## Summary
 
@@ -117,6 +122,5 @@ The imports are: from crewai import Crew, Task, Agent.
 to run: result = crew.run().
 The crewai framework has Crews and Flows.
 ==it uses `uv` as its dependency management and package handling tool==.
-
 
 #tech #ai

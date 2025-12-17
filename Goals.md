@@ -48,6 +48,7 @@
 
 - [ ] Fitness
 - [ ] MBA
+- [ ] Certificação Copilot
 
 #goals
 
