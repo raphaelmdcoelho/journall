@@ -13,27 +13,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Goals.md",
+                "file": "Technology/Linux/Useful Scripts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Goals"
+              "title": "Useful Scripts"
             }
           },
           {
-            "id": "3362d4fe88fb27fa",
+            "id": "b6c2c22c4083334f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-12-10 15.26.49.excalidraw.md"
+                "file": "AI/CrewAI.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-12-10 15.26.49.excalidraw"
+              "icon": "lucide-file",
+              "title": "CrewAI"
+            }
+          },
+          {
+            "id": "d7e8f224e3c5b95c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technology/Python/Python - Decorator.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Python - Decorator"
+            }
+          },
+          {
+            "id": "48ee9e63177ac4bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Languages/English/Vocabulary.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vocabulary"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -193,16 +224,20 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "20f800ed3d2a05be",
+  "active": "d7e8f224e3c5b95c",
   "lastOpenFiles": [
-    "AI/Crew AI.md",
+    "Technology/Linux/Useful Scripts.md",
+    "Languages/English/Vocabulary.md",
+    "AI/CrewAI.md",
+    "Technology/Python/Python - Decorator.md",
+    "Goals.md",
+    "Languages/English",
     "AI/Images/image_flows_ai_diagram_1.png",
     "Excalidraw/Drawing 2025-12-10 15.26.49.excalidraw.md",
     "AI/Antigravity.md",
     "AI/Agent.md",
     "AI/Tree of Thoughts Prompting.md",
     "AI/Images/image_crew_ai_diagram_1.png",
-    "Goals.md",
     "Excalidraw/Drawing 2025-12-10 15.26.45.excalidraw.md",
     "Pasted image 20251215215114.png",
     "AI/Images",
@@ -228,11 +263,8 @@
     "Technology",
     "AI",
     "Claude Code.md",
-    "Languages/Chinese/Drawing 2025-11-30 22.14.55.excalidraw.md",
-    "Python/PYTHON.md",
     "Journal/2025",
     "Journal",
-    "Music",
     "Images/Anatomy/Pasted image 20251130211229.png",
     "Images/Anatomy/Pasted image 20251130213959.png",
     "Images/Anatomy/Pasted image 20251130213942.png",

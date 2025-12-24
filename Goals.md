@@ -1,7 +1,7 @@
 
 ## Gaming
 
-<progress value="20" max="25">Goal</progress>
+<progress value="21" max="26">Goal</progress>
 
 - [x] Ratchet & Clank: Rift Apart
 - [x] Horizon: Zero Dawn
@@ -32,6 +32,7 @@
 - [ ] Metal Gear Solid Delta
 - [x] Lego Horizon Adventure
 - [x] Ace Combat 7: Skyes Unknow
+- [x] Cat Quest I
 
 ## Books
 
@@ -40,7 +41,7 @@
 - [ ] Bíblia
 - [x] 1984: George Orwell
 - [ ] Cinco Anéis: Miyamoto Musashi
-- [x] O cair da noite
+- [x] O cair da noite, Isaac Asimov
 - [x] Eu Robô, Isaac Asimov
 - [ ] As cavernas de aço, Isaac Asimov
 

@@ -46,6 +46,8 @@ pip install openai langchain
 While Crews excel at autonomous collaboration, Flows provide structured automations, offering granular control over workflow execution.
 
 ![[image_flows_ai_diagram_1.png]]
+
+The `@start()` marks a entry point for a Flow.
 ## How to use
 
 ```bash
