@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Socket"
             }
+          },
+          {
+            "id": "5c06abafac1b8167",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-12-19 09.23.57.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-12-19 09.23.57.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,10 +194,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3636783836c3d00b",
+  "active": "5c06abafac1b8167",
   "lastOpenFiles": [
-    "Technology/Concepts/Downloads.md",
     "Technology/Concepts/Socket.md",
+    "Excalidraw/Drawing 2025-12-19 09.23.57.excalidraw.md",
+    "Technology/Concepts/Downloads.md",
     "Technology/Container/Docker/Docker.md",
     "Technology/Concepts",
     "Technology/Linux/Software/Sudo.md",
@@ -220,7 +234,6 @@
     "Technology/Python/PYTHON.md",
     "Technology/Python/Python - Types.md",
     "Technology/Python/Python - Constants.md",
-    "Technology/Python/Python - Functions.md",
     "Technology/Terminal",
     "Images/Anatomy/Pasted image 20251130211229.png",
     "Images/Anatomy/Pasted image 20251130213959.png",
